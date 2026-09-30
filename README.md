@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @celia-nouri
+👋 Hi, I’m @celia-nouri,
+
 I’m an AI researcher, working at the intersection of NLP (Natural Language Processing), and CSS (Computational Social Science).
 
 I am currently completing my PhD at Inria ALMAnaCH team and the Sciences Po médialab. 
