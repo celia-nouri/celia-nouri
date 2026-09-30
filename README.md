@@ -2,7 +2,7 @@
 
 I’m an AI researcher, working at the intersection of NLP (Natural Language Processing), and CSS (Computational Social Science).
 
-I am currently completing my PhD at Inria ALMAnaCH team and the Sciences Po médialab. 
+I am currently completing my PhD at Inria ALMAnaCH team and the Sciences Po médialab. For more information, check my website (https://www.celianouri.com). 
 
 You can contact me on LinkedIn (https://www.linkedin.com/in/celianouri/) or by mail (celiaDOTnouriATgmail).
 
